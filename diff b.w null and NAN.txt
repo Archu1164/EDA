@@ -1,0 +1,22 @@
+NULL ::
+
+1.Represents missing, empty, or unknown value.
+2.Common in databases (SQL) and programming languages (Python uses None).
+3.Used when data does not exist or is not provided.
+4.Cannot participate in mathematical operations.
+5.Comparison with NULL is always unknown (e.g., NULL != NULL).
+6.NULL is a placeholder for absence of information.
+7.Used for non-numeric and numeric fields both.
+8.Example: A user’s middle name not given → NULL.
+
+
+NaN ::
+
+1.Stands for Not a Number.
+2.Occurs only in numeric calculations.
+3.Represents an invalid / undefined numeric result.
+4.Used in Python, NumPy, pandas during numeric operations.
+5.Any math operation with NaN gives NaN.
+6.NaN is not equal to itself (nan != nan).
+7.Indicates error in computation (e.g., 0/0).
+8.Only applicable to numeric data types.
