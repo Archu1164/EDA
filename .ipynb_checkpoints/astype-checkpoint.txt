@@ -1,0 +1,7 @@
+Why use astype()?
+
+Convert string → int
+Convert int → float
+Convert float → int
+Convert object → category (Pandas)
+Required before ML model training (clean data)

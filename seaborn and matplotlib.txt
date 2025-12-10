@@ -1,0 +1,24 @@
+Matplotlib::
+
+Matplotlib is a fundamental plotting library in Python.
+It allows you to create basic to advanced graphs such as:
+
+.Line charts
+.Bar charts
+.Pie charts
+.Histograms
+.Scatter plots
+
+Seaborn::
+
+Seaborn is a higher-level statistical visualization library, built on top of Matplotlib.
+It makes charts prettier, easier, and better for analysis.
+
+>>Key Points
+.Creates beautiful graphs with less code.
+.Better for statistical plots, like:
+.Heatmaps
+.Pairplots
+.Boxplots
+.Violin plots
+.Distribution plots
